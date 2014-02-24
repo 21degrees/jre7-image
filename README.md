@@ -1,4 +1,1 @@
-temperature
-===========
-
-21degrees
+Docker base image for jre7
